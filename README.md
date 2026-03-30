@@ -5,7 +5,7 @@ A passionate CSE student diving deep into the world of Artificial Intelligence, 
 ### 🛠️ Tech Stack & Skills
 - **Languages:** Python, C, C++
 - **Data Science & ML:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
-- **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Embedded Systems
+- **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Modeling concepts, Data concepts, mlops
 
 ### 🌱 Currently Exploring
 - Implementing Machine Learning algorithms from scratch to understand the core math behind them.
