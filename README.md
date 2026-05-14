@@ -3,7 +3,7 @@
 A passionate CSE student diving deep into the world of Artificial Intelligence, Machine Learning, and Deep Learning. My goal is to build robust, end-to-end AI solutions and contribute to the growing field of AI Hardware research.
 
 ### 🛠️ Tech Stack & Skills
-- **Languages:** Python, C, C++
+- **Languages:** Python, C, C++,SQL
 - **Data Science & ML:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
 - **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Modeling concepts, Data concepts, mlops
 
