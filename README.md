@@ -1,23 +1,26 @@
 # Hi there 👋, I'm Omar Reda
 
-A passionate CSE student diving deep into the world of Artificial Intelligence, Machine Learning, and Deep Learning. My goal is to build robust, end-to-end AI solutions and contribute to the growing field of AI Hardware research.
+A passionate Computer Science & Engineering student with a strong interest in Artificial Intelligence, Machine Learning, and Deep Learning. I enjoy building end-to-end AI solutions, from data collection and preprocessing to model deployment, and aspire to contribute to AI hardware research.
 
-### 🛠️ Tech Stack & Skills
-- **Languages:** Python, C, C++,SQL
-- **Data Science & ML:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
-- **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Modeling concepts, Data concepts, mlops
+# 🛠️ Tech Stack & Skills
 
-### 🌱 Currently Exploring
-- Implementing Machine Learning algorithms from scratch to understand the core math behind them.
-- Maintaining a daily coding habit to sharpen my problem-solving skills.
-- Building end-to-end AI projects, from data collection to deployment.
+- **Languages:** Python, C, C++, SQL (SQL Server, PostgreSQL)
+- **Data Science & ML:** NumPy, Pandas, Polars, Scikit-learn, PyTorch, Matplotlib, Seaborn, Sqlachemy 
+- **Core Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Data Preprocessing, Machine Learning, Model Evaluation, MLOps
+- **Tools:** Git, GitHub, Jupyter Notebook, VS Code, DBeaver
 
-### ⚡ Fun Fact
-I love tackling complex, real-world problems and turning them into efficient, data-driven AI solutions.
+# 🌱 Currently Exploring
 
-📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/omar-reda-elsherbiny-1a2204213)
+- Strengthening my ML & DL foundations through Probability & Statistics, Linear Algebra, and Calculus.
+- Building end-to-end AI projects, from data collection and preprocessing to deployment.
+- Learning best practices for writing clean, maintainable, and production-ready machine learning code.
 
+# ⚡ Fun Fact
 
+I enjoy tackling real-world problems and transforming data into practical AI solutions.
+
+# 📫 Connect with me:
+LinkedIn: https://www.linkedin.com/in/omar-reda-elsherbiny-1a2204213
 <!--
 **omar-reda123/omar-reda123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
