@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Omar Reda
 
-A passionate Computer Science & Engineering student with a strong interest in Artificial Intelligence, Machine Learning, and Deep Learning. I enjoy building end-to-end AI solutions, from data collection and preprocessing to model deployment, and aspire to contribute to AI hardware research.
+Computer Science & Engineering student specializing in Artificial Intelligence and Machine Learning. Experienced in building ML/DL projects using Python and PyTorch, covering the full workflow from data preparation and experimentation to model deployment. Passionate about developing AI-driven solutions that solve real-world problems, create business value, and explore the intersection of AI systems, computer vision, and hardware acceleration.
 
 # 🛠️ Tech Stack & Skills
 
@@ -8,6 +8,11 @@ A passionate Computer Science & Engineering student with a strong interest in Ar
 - **Data Science & ML:** NumPy, Pandas, Polars, Scikit-learn, PyTorch, Matplotlib, Seaborn, Sqlachemy 
 - **Core Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Data Preprocessing, Machine Learning, Model Evaluation, MLOps
 - **Tools:** Git, GitHub, Jupyter Notebook, VS Code, DBeaver
+
+# projects
+-End-to-End car price predictor(from data cleaning to deployment).
+-Fraud detection system(handled imbalanced datasets, written in oop)
+-end-to-end student's thesis database designing (from requirements,ERD,Mapping,DDL,DML all the way to GUI)
 
 # 🌱 Currently Exploring
 
