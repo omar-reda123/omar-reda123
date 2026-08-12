@@ -30,6 +30,8 @@ Passionate about developing AI systems that solve real-world business problems, 
 - DBeaver
 
 # 🚀 Projects
+### rainkagg 
+-A developer-centric CLI tool to execute local ML/DL Python scripts on Kaggle GPUs seamlessly.
 
 ### End-to-End Car Price Prediction System
 - Built a complete machine learning pipeline starting from data cleaning and preprocessing to model training, evaluation, and deployment.
