@@ -22,6 +22,9 @@ Passionate about developing AI systems that solve real-world business problems, 
 - Exploratory Data Analysis (EDA)
 - Machine Learning & Model Evaluation
 - MLOps Fundamentals
+### Deployment 
+- Fastapi
+- Docker
 
 ### Tools & Platforms
 - Git & GitHub
