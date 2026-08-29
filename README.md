@@ -23,9 +23,9 @@ Passionate about developing AI systems that solve real-world business problems, 
 - Machine Learning & Model Evaluation
 - MLOps Fundamentals
 ### Deployment 
--mlflow
 - Fastapi
 - Docker
+- mlflow 
 
 ### Tools & Platforms
 - Git & GitHub
