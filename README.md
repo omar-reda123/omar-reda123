@@ -56,7 +56,7 @@ Passionate about developing AI systems that solve real-world business problems, 
 
 # ⚡ Fun Fact
 
-I enjoy solving real-world problems by combining software engineering, data, and artificial intelligence to build practical solutions.
+I enjoy solving business problems by combining software engineering, data, and artificial intelligence to build practical solutions.
 
 # 📫 Connect with me
 
