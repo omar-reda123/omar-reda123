@@ -24,6 +24,7 @@ Passionate about developing AI systems that solve real-world business problems, 
 - MLOps Fundamentals
 ### Deployment 
 - Fastapi
+- Unit testing & integration testing (pytest)
 - Docker
 - mlflow 
 
