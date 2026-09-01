@@ -1,66 +1,67 @@
 # Hi there 👋, I'm Omar Reda
 
-Computer Science & Engineering student specializing in Artificial Intelligence and Machine Learning. Experienced in building end-to-end ML/DL solutions using Python and PyTorch, covering the complete workflow from data preparation and experimentation to model deployment.
+Computer Science & Engineering student specializing in **Artificial Intelligence** and **Machine Learning**. I build end-to-end ML/DL systems using Python and PyTorch, focusing on transforming data into practical, production-oriented solutions.
 
-Passionate about developing AI systems that solve real-world business problems, transform data into actionable insights, and create measurable value. Interested in Artificial Intelligence, Computer Vision, and AI hardware acceleration.
+💡 **Interests:** Artificial Intelligence • Machine Learning • Deep Learning • Natural Language Processing • AI Hardware Acceleration
 
-# 🛠️ Tech Stack & Skills
+---
 
-### Programming Languages
-- Python, C, C++, SQL (SQL Server, PostgreSQL)
+### 🛠️ Tech Stack & Skills
 
-### Data Science & Machine Learning
-- NumPy, Pandas, Polars, Scikit-learn
-- PyTorch
-- Matplotlib, Seaborn
-- SQLAlchemy
+* **Programming Languages:** `Python` • `C` • `C++` • `SQL` (PostgreSQL, SQL Server)
+* **Data Science & ML:** `NumPy` • `Pandas` • `Polars` • `Scikit-learn` • `Matplotlib` • `Seaborn` • `SQLAlchemy`
+  * *Workflow:* Data Cleaning & Preprocessing • EDA & Feature Engineering • Model Evaluation
+  * *Foundations:* Probability & Statistics • Linear Algebra • Calculus
+* **Deep Learning:** `PyTorch`
+  * Neural Networks • CNNs • RNNs / LSTMs / GRUs • Autoencoders
+* **MLOps & Deployment:**
+  * **Tracking & Versioning:** `MLflow` • `DVC`
+  * **API & Containerization:** `FastAPI` • `Docker`
+  * **Testing & Quality:** `Pytest` • `Ruff` • `Black` • `Pre-commit`
+  * **CI/CD & Architecture:** `GitHub Actions` • Modular Design • Logging & Config Management
+* **Software Engineering & Tools:**
+  * OOP • Data Structures & Algorithms (DSA) • Clean Architecture
+  * `Git` • `GitHub` • `VS Code` • `Jupyter Notebook` • `DBeaver` • `Kaggle`
 
-### Core Concepts
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms (DSA)
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- Machine Learning & Model Evaluation
-- MLOps Fundamentals
-### Deployment 
-- Fastapi
-- Unit testing & integration testing (pytest)
-- Docker
-- mlflow 
+---
 
-### Tools & Platforms
-- Git & GitHub
-- Jupyter Notebook
-- VS Code
-- DBeaver
+### 🚀 Featured Projects
 
-# 🚀 Projects
-### trainkagg 
--A developer-centric CLI tool to execute local ML/DL Python scripts on Kaggle GPUs seamlessly.
+* 📦 **Trainkagg**
+  * Developer-centric CLI tool for executing local ML/DL Python scripts directly on Kaggle GPUs.
+  * Eliminates friction between local development and cloud GPU execution.
 
-### End-to-End Car Price Prediction System
-- Built a complete machine learning pipeline starting from data cleaning and preprocessing to model training, evaluation, and deployment.
-- Applied feature engineering and model evaluation techniques to build a reliable prediction system.
+* 💳 **Credit Card Fraud Detection System**
+  * Modular end-to-end ML pipeline built for highly imbalanced data.
+  * Achieved **0.847 F1-score**, **0.81 precision**, and **0.87 recall** (compared to 0.09 baseline).
+  * Implemented OOP design patterns and comprehensive logging.
 
-### Fraud Detection System
-- Developed an end-to-end fraud detection solution for highly imbalanced datasets.
-- Implemented preprocessing pipelines, handled class imbalance, and structured the project using Object-Oriented Programming principles.
+* 🧠 **Custom Denoising Autoencoder**
+  * Implemented from scratch using dense layers and dropout regularization.
+  * Reconstruction-based thresholding workflow for anomaly detection (**95% test accuracy**, **1.00 ROC-AUC**).
 
-### Student Thesis Database Management System
-- Designed and implemented a complete database system starting from requirements analysis, ERD design, and relational mapping.
-- Developed DDL/DML scripts and integrated the database with a GUI application.
+* 🚗 **End-to-End Car Price Prediction System**
+  * Production-ready pipeline covering data transformation, feature engineering, and deployment.
 
-# 🌱 Currently Exploring
+* 📐 **ML Algorithms from Scratch**
+  * Pure `NumPy` implementations of Linear Regression, Logistic Regression, and an XOR Neural Network.
+  * Focused on exact mathematical derivations and backpropagation.
 
-- Strengthening my Machine Learning and Deep Learning foundations through Probability & Statistics, Linear Algebra, and Calculus.
-- Building production-oriented AI projects from data collection and preprocessing to deployment.
-- Improving software engineering practices for writing clean, scalable, and maintainable machine learning systems.
+* 🗄️ **Student Thesis Database Management System**
+  * Relational schema design, SQL scripting, and desktop GUI integration.
 
-# ⚡ Fun Fact
+---
 
-I enjoy solving business problems by combining software engineering, data, and artificial intelligence to build practical solutions.
+### 🌱 Currently Exploring
 
-# 📫 Connect with me
+* Deepening mathematical foundations for advanced Deep Learning architectures.
+* Engineering production-ready AI pipelines from data ingestion to containerized deployment.
+* Scaling MLOps automation and robust CI/CD practices.
 
-LinkedIn:
-https://www.linkedin.com/in/omar-reda-elsherbiny-1a2204213
+---
+
+### ⚡ Quick Fact
+
+* I bridge software engineering principles with machine learning to build reliable, real-world systems.
+
+
