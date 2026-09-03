@@ -12,36 +12,70 @@ Artificial Intelligence · Machine Learning · Deep Learning · Natural Language
 ## 🛠️ Tech Stack & Skills
 
 ### 💻 Programming Languages
-`Python` · `C` · `C++` · `SQL`  
-PostgreSQL · SQL Server
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 ### 📊 Data Science & Machine Learning
-`NumPy` · `Pandas` · `Polars` · `Scikit-learn` · `Matplotlib` · `Seaborn` · `SQLAlchemy`
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat&logo=polars&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
 
 🔹 **Core:** Data Cleaning & Preprocessing · EDA · Feature Engineering · Model Evaluation
 
 🔹 **Foundations:** Probability & Statistics · Linear Algebra · Calculus
 
 ### 🧠 Deep Learning
-`PyTorch`
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 Neural Networks · CNNs · RNNs · LSTMs · GRUs · Autoencoders
 
 ### ⚙️ MLOps & Deployment
-🔹 **Experiment Tracking & Versioning:** `MLflow` · `DVC`
 
-🔹 **API & Containerization:** `FastAPI` · `Docker`
+🔹 **Experiment Tracking & Versioning:**
 
-🔹 **Testing & Code Quality:** `Pytest` · `Ruff` · `Black` · `Pre-commit`
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dvc&logoColor=white)
 
-🔹 **CI/CD:** `GitHub Actions`
+🔹 **API & Containerization:**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+🔹 **Testing & Code Quality:**
+
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat&logo=ruff&logoColor=black)
+![Black](https://img.shields.io/badge/Black-000000?style=flat&logo=python&logoColor=white)
+![Pre--commit](https://img.shields.io/badge/Pre--commit-FAB040?style=flat&logo=pre-commit&logoColor=black)
+
+🔹 **CI/CD:**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 🔹 **Production Practices:** Logging · Configuration Management · Modular Design
 
 ### 🔧 Software Engineering & Tools
+
 OOP · Data Structures & Algorithms · Clean Architecture
 
-`Git` · `GitHub` · `VS Code` · `Jupyter Notebook` · `DBeaver` · `Kaggle`
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
 
 ---
 
